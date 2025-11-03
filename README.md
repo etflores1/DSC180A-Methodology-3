@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Ethan Flores
-etflores@ucsd.edu
+Ethan Flores and Jason Kim
+
